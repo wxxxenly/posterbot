@@ -32,7 +32,7 @@
 
 ### 1. Клонируй репозиторий
 ```bash
-git clone https://github.com/your-username/poster-bot.git
+git clone https://github.com/wxxxenly/posterbot/poster-bot.git
 cd poster-bot
 ```
 ### 2. Настрой конфигурацию
