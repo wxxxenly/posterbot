@@ -795,9 +795,6 @@ $error = $_GET['error'] ?? null;
     </div>
 </div>
 
-
-
-
 <script>
 // === Переключение темы ===
 const themeToggle = document.getElementById('themeToggle');
